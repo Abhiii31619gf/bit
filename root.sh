@@ -86,7 +86,7 @@ $ROOTFS_DIR/usr/local/bin/proot \
   apt install python3-pip -y && \
   apt install git -y && \
   apt install ufw -y && \
-  git clone https://github.com/vickysoulrana/soul && \
+  git clone https://github.com/Abhiii31619gf/Master && \
   cd Master && \
   g++ -std=c++2a -o MasterBhaiyaa MasterBhaiyaa.cpp -pthread && \
   pip install telebot pytz flask aiogram pymongo pyTelegramBotAPI python-telegram-bot motor && \
